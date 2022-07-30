@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>主题版的Demo</title>
+  
+  <subtitle>副标题</subtitle>
+  <link href="https://xiaokang.me/atom.xml" rel="self"/>
+  
+  <link href="https://xiaokang.me/"/>
+  <updated>2022-07-30T12:20:38.426Z</updated>
+  <id>https://xiaokang.me/</id>
+  
+  <author>
+    <name>作者</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello-World</title>
+    <link href="https://xiaokang.me/posts/f689a288/index.html"/>
+    <id>https://xiaokang.me/posts/f689a288/index.html</id>
+    <published>2019-10-31T14:40:00.000Z</published>
+    <updated>2022-07-30T12:20:38.426Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="当前配置详情"><a class="markdownIt-Anchor" href="#当前配置详情"></a> 当前配置详情</h2><ul><li>HEXO：6.2.0</li><li>Butterfly： 4.4.0-b1</li><li>butterfly 主题的 Hexo 博客</li><li>持续集成部署（基于 Actions+Github）</li><li>一些常用页面（关于、友联等）</li></ul><p>主题版适用人群</p><ul><li>迅速得到一个 Hexo 博客成品</li><li>喜欢此主题的人群</li></ul><p>其他关于 butterfly 主题特性请参考<a href="https://butterfly.js.org/">官方文档</a>。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;当前配置详情&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#当前配置详情&quot;&gt;&lt;/a&gt; 当前配置详情&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;HEXO：6.2.0&lt;/li&gt;
+&lt;li&gt;Butterfly： 4.4.0-b1&lt;/li&gt;
+&lt;li&gt;butte</summary>
+      
+    
+    
+    
+    <category term="无类可分" scheme="https://xiaokang.me/categories/%E6%97%A0%E7%B1%BB%E5%8F%AF%E5%88%86/"/>
+    
+    
+    <category term="init" scheme="https://xiaokang.me/tags/init/"/>
+    
+  </entry>
+  
+</feed>

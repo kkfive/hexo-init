@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello-World</title>
+      <link href="/posts/f689a288/index.html"/>
+      <url>/posts/f689a288/index.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="当前配置详情"><a class="markdownIt-Anchor" href="#当前配置详情"></a> 当前配置详情</h2><ul><li>HEXO：6.2.0</li><li>Butterfly： 4.4.0-b1</li><li>butterfly 主题的 Hexo 博客</li><li>持续集成部署（基于 Actions+Github）</li><li>一些常用页面（关于、友联等）</li></ul><p>主题版适用人群</p><ul><li>迅速得到一个 Hexo 博客成品</li><li>喜欢此主题的人群</li></ul><p>其他关于 butterfly 主题特性请参考<a href="https://butterfly.js.org/">官方文档</a>。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 无类可分 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> init </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
