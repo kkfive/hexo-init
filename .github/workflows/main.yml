@@ -44,7 +44,7 @@ jobs:
       - name: 6. 部署页面
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
-          branch: master # 修改为你自己的源码分支
+          branch: gh-pages
           folder: public
           clean: false
 
