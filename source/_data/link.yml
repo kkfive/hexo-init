@@ -1,0 +1,9 @@
+class2:
+  class_name: 身旁好友
+  class_desc: <h4>同校<del>py</del>好友😏</h4>
+  link_list:
+    2:
+      name: 小康博客
+      link: https://www.xiaokang.me/
+      avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+      descr: 描述
