@@ -13,8 +13,8 @@ sticky: 999
 
 ## 当前配置详情
 
-- HEXO：6.2.0
-- Butterfly： 4.4.0-b1
+- HEXO：6.3.0
+- Butterfly： 4.6.1
 - butterfly 主题的 Hexo 博客
 - 持续集成部署（基于 Actions+Github）
 - 一些常用页面（关于、友联等）

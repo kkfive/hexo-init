@@ -10,26 +10,26 @@
     "gulp": "gulp"
   },
   "hexo": {
-    "version": "6.2.0"
+    "version": "6.3.0"
   },
   "dependencies": {
     "@upupming/hexo-renderer-markdown-it-plus": "^2.0.2",
     "cheerio": "^0.22.0",
-    "hexo": "^6.2.0",
+    "hexo": "^6.3.0",
     "hexo-abbrlink": "^2.2.1",
     "hexo-baidupush": "^1.0.2",
     "hexo-deployer-git": "^3.0.0",
     "hexo-external-link": "^1.0.9",
-    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-archive": "^2.0.0",
     "hexo-generator-baidu-sitemap": "^0.1.9",
-    "hexo-generator-category": "^1.0.0",
+    "hexo-generator-category": "^2.0.0",
     "hexo-generator-feed": "^3.0.0",
     "hexo-generator-indexed": "^1.2.1",
     "hexo-generator-search": "^2.4.3",
     "hexo-generator-sitemap": "^3.0.1",
-    "hexo-generator-tag": "^1.0.0",
+    "hexo-generator-tag": "^2.0.0",
     "hexo-hide-posts": "^0.2.0",
-    "hexo-lazyload-image": "^1.0.10",
+    "hexo-lazyload-image": "^1.0.13",
     "hexo-permalink-pinyin": "^1.1.0",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-pug": "^3.0.0",
@@ -37,15 +37,15 @@
     "hexo-server": "^3.0.0",
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-wordcount": "^6.0.1",
-    "terser": "^5.14.2"
+    "terser": "^5.16.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.18.9",
-    "@babel/preset-env": "^7.18.9",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
-    "gulp-html-minifier-terser": "^6.0.1",
+    "gulp-html-minifier-terser": "^7.1.0",
     "gulp-htmlclean": "^2.7.22",
     "gulp-htmlmin": "^5.0.1",
     "gulp-imagemin": "^8.0.0",
